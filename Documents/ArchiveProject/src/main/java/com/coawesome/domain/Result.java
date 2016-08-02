@@ -5,3 +5,4 @@ package com.coawesome.domain;
  */
 public class Result {
 }
+dsdfsadfafs
